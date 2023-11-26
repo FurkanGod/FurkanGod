@@ -8,13 +8,13 @@
 
 <p align="center">
   <b>Ben Furkan.</b><br>
-  <b>Bazı gelişmiş diller biliyorum.</b><br>
-  <b>Şu anda C ve C++ öğreniyorum.</b><br>
+  <b>cpp, c#, node, py, java; fw: react, vue, svelte, tw, php ve daha bir çok dil biliyorum.</b><br>
+  <b>Şu anda Haskell ve TypeScript öğreniyorum.</b><br>
   <b>Profilimi ziyaret ettiğiniz için teşekkürler.</b>
 </p>
 
 <p align="center">
-  <a href="https://t.me/FurqanGod">
+  <a href="https://t.me/Furkanisyanediyo">
     <img alt="Telegram" src="https://img.shields.io/badge/-Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white">
   </a>
 </p>
